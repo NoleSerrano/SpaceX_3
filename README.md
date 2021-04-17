@@ -8,7 +8,7 @@ Up:    W or ↑ \
 Left:  A or ← \
 Down:  S or → \
 Right: D or ↓ \
-Shoot: Mouse 1
+Shoot: Mouse 1 (left-click)
 
 Pause: 	   Space \
 Game Over: Backspace (once) \
