@@ -11,11 +11,11 @@ Right: D or ↓ \
 Shoot: Mouse 1 \
 
 Pause: 	   Space \
-Game Over: Backspace (once) \
+Game Over: Backspace (once)
 Exit:      Backspace (twice)
 
 # Cheats
-Add Health: 	   +
+Add Health: 	   + \
 Decrease Health: -
 
 # Snoop Dogg
