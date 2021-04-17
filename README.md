@@ -10,8 +10,8 @@ Down:  S or → \
 Right: D or ↓ \
 Shoot: Mouse 1
 
-Pause: 	   Space
-Game Over: Backspace (once)
+Pause: 	   Space \
+Game Over: Backspace (once) \
 Exit:      Backspace (twice)
 
 # Cheats
