@@ -3,6 +3,9 @@ Game I made in AP Computer Science.
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/43283288/115109638-d58b0500-9f2b-11eb-961e-2dfe0e2af359.png)
 
+# How to Run
+Download the SpaceX3.jar file and run it.
+
 # Controls
 Up:    W or ↑ \
 Left:  A or ← \
